@@ -1,0 +1,10 @@
+{
+  "name": "pane-glow",
+  "version": "0.1.0",
+  "description": "Coloured border above the prompt: running, waiting on child agents, or waiting on you",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "RSA-Omen"
+  }
+}

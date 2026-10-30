@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "RSA-Omen" },
+  "plugins": [
+    {
+      "name": "pane-glow",
+      "source": "./plugins/pane-glow",
+      "description": "Coloured border above the prompt: running, waiting on child agents, or waiting on you"
+    }
+  ]
+}
